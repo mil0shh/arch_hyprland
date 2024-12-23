@@ -1,4 +1,4 @@
-#------------------------------------------------ Defaults
+# =========== Dependencies ===========
 vim
 git
 curl
@@ -7,7 +7,6 @@ rsync
 man-pages
 sed
 awk
-#------------------------------------------------ Dependencies
 pacman-contrib
 hyprland
 hyprpaper
@@ -59,23 +58,21 @@ kde-cli-tools
 imagemagick
 qt5-imageformats
 parallel
-#------------------------------------------------ User Prefferences
-#tmux
-#fzf
-#zsh
-#tldr
-#python-pipx
-#cava
-#spotify
-#spicetify-cli
-#discord
-#telegram
-#------------------------------------------------ Networking
-#nmap
-#tcpdump
-#bind-utils
-#screen
-#------------------------------------------------ Pentesting
-#metasploit
-#exploitdb
-#aircrack-ng
+# =========== Optional Packages ===========
+tmux
+fzf
+zsh
+tldr
+python-pipx
+cava
+spotify
+spicetify-cli
+discord
+telegram
+nmap
+tcpdump
+bind-utils
+screen
+metasploit
+exploitdb
+aircrack-ng
