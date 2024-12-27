@@ -60,6 +60,8 @@ qt5-imageformats
 parallel
 # =========== Optional Packages ===========
 tmux
+zed
+ghostty
 fzf
 zsh
 tldr
